@@ -1,0 +1,4 @@
+# Created at 2021-12-17T15:03:45.426
+Boot Manifest-JAR contains absolute paths in classpath 'E:\selenium_project\PavanProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
